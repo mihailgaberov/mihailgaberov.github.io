@@ -3,4 +3,4 @@
 
 You can view the [presentation here](http://mihailgaberov.github.io/testing-reactjs-presentation).
 
-![Screenshot](https://github.com/mihailgaberov/testing-reactjs-examples/blob/master/demo-app-screenshot.jpg)
+![Screenshot](https://github.com/mihailgaberov/mihailgaberov.github.io/blob/master/testing-reactjs-presentation-examples/demo-app-screenshot.jpg)
